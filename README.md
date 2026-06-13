@@ -12,6 +12,11 @@ This Power BI project analyzes the business performance of an e-commerce store u
 - DAX
 - Excel
 
+📷 Dashboard Preview
+
+![Dashboard](Screenshot%202026-06-13%20103947.png)
+
+
 📈 Dashboard Features
 
 - Total Revenue Analysis
